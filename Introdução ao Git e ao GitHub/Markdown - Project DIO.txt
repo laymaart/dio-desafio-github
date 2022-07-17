@@ -1,0 +1,18 @@
+# Projeto sobre Markdown: você sabe o que é?
+
+O Markdown funciona como um conversor de texto para HTML: os caracteres não-alfabéticos são traduzidos como <b> , <i> e <a href> , etc. Já os textos sem formatação entram como parágrafo simples <p> .
+
+Foi desenvolvido em 2004 por John Gruber e Aaron Swartz para simplificar a estruturação de um texto, o Markdown é um sistema de formatação aberto que torna a escrita e a leitura mais simples. Com uma codificação mínima, além de fácil, ele é visualmente mais "limpo" e pode ser convertido facilmente para HTML. 
+
+A linguagem Markdown pode ser processada em diversos programas, incluindo o Microsoft Word ou o Openoffice.org Writer. Seus arquivos também ficam muito pequenos e dificilmente se "quebram".
+
+Por exemplo, um texto com itálico e links em HTML:
+
+O melhor do mundo da tecnologia está no Canal Tech! < / em > acesse: < ahref="http://https://canaltech.com.br/ " & g t; CanalTech, < a href = "https://www.facebook.com/canaltech" target="_blank" > Fanpage do CanalTech < /p>
+
+E o mesmo texto em Markdown:
+
+O melhor do mundo da tecnologia está em *CanalTech* acesse: [CanalTech], [Fanpage do CanalTech]
+
+
+Aqui está o link para que você possa entender mais sobre Markdown [Syntax Markdown] (https://www.markdownguide.org/basic-syntax/)
